@@ -23,6 +23,10 @@
 <p align="left">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=lfrclnando&show_icons=true&theme=vision-friendly-dark" alt="lfrclnando's stats"/>
 <!--<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfrclnando&layout=compact&theme=vision-friendly-dark" alt="lfrclnando's most languages"/>
-</p>-->
+</p>  
+  <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=lfrclnando&layout=wide&show_reply=off&show_retweet=off" /> -->
+
+<!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfrclnando&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
-  <img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=lfrclnando&layout=wide&show_reply=off&show_retweet=off" />
+  ### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lfrclnando&theme=radical&no-frame=true&no-bg=true&margin-w=4)-->
