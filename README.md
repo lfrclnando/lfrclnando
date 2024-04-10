@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning Securty Information, Blockchain, IA, React, Node, Machine Learning
+- 🌱 I’m currently learning Securty Information, Blockchain, IA, React, React Native Node, Machine Learning
 - 🌱 I’m currently working with FullStack Developer Web.
 - 🌱 I'm musician as well!!! 😄
 
