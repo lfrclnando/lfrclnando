@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 - 🌱 I’m currently learning Node, React, React Native, DevOps, Go, CyberSecurty, Blockchain, Python, IA, Machine Learning
-- 🌱 I’m currently working with FullStack Developer Web.
+- 🌱 I’m currently working with FullStack Developer.
 - 🌱 I'm musician as well!!! 😄
 
 - ⚡ More facts about me: 
