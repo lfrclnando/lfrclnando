@@ -9,12 +9,18 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning Node, React, React Native, DevOps, Go, CyberSecurty, Python, C#, IA...
-- 🌱 I’m currently working with FullStack Developer.
-- 🌱 I'm musician as well!!! 😄
+- 🌱 I'm a passionate Full Stack Developer on a continuous journey of learning and growth. Currently, I'm diving into several fascinating areas such as:
+- 🌱 **Frontend:** React, React Native, Figma, Illustrator, Photoshop (for design aspects);
+- 🌱 **Backend:** Node.js, Go, C#;
+- 🌱 **Databases:** SQL, MySQL, MariaDB, SQLite, PostgreSQL, MongoDB, Oracle, Firebird;
+- 🌱 **DevOps:** Exploring best practices and tools;
+- 🌱 **Security:** Fundamentals of Cybersecurity;
+- 🌱 **Data Science/AI:** Python, foundational concepts of Artificial Intelligence;
+- 🌱 Professionally, I'm engaged as a Full Stack Developer, applying my skills to create impactful applications. 👨‍💻
+- 🌱 Outside of the tech world, I'm also a musician! Music is a significant part of my life. 🎵 😄
 
 - ⚡ More facts about me: 
-- ⚡ I love the Creator of all things. I love my life. I love my family. I love people and try to add, not subtract....
+- ⚡ I am deeply grateful for the Creator for all of things. A love for the gift of life and my family. I strive to be a positive influence on the people around me....
 
 <br><br>
 
