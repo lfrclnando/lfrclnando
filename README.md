@@ -17,9 +17,12 @@
 - 🌱 **DevOps:** Exploring best practices and tools;
 - 🌱 **Security:** Fundamentals of Cybersecurity;
 - 🌱 **Data Science/AI:** Python, foundational concepts of Artificial Intelligence;
-- 🌱 Professionally, I'm engaged as a Full Stack Developer, applying my skills to create impactful applications. 👨‍💻
-- 🌱 Outside of the tech world, I'm also a musician! Music is a significant part of my life. 🎵 😄
-
+  <br>
+  
+- 👨‍💻 Professionally, I'm engaged as a Full Stack Developer, applying my skills to create impactful applications.
+- 🎵 Outside of the tech world, I'm also a musician! Music is a significant part of my life. 😄
+  <br>
+  
 - ⚡ More facts about me: 
 - ⚡ I am deeply grateful for the Creator for all of things. A love for the gift of life and my family. I strive to be a positive influence on the people around me....
 
