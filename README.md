@@ -9,7 +9,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-- 🌱 I'm a passionate Full Stack Developer on a continuous journey of learning and growth.
+- 🌱 I'm a passionate **Full Stack Developer** on a continuous journey of learning and growth.
 - 🌱 Currently, I'm diving into several fascinating areas such as:
 - 🌱 **Frontend:** React, React Native, Figma, Illustrator, Photoshop (for design aspects);
 - 🌱 **Backend:** Node.js, Go, C#;
