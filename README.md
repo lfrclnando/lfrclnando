@@ -24,6 +24,9 @@
 - ⚡ I am deeply grateful for the Creator for all of things. A love for the gift of life and my family. I strive to be a positive influence on the people around me....
 
 <br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-sdev/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/lfernando5790/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lfernando.div@gmail.com)
+
+<br><br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
