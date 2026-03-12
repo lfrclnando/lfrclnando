@@ -12,7 +12,7 @@
 - 🌱 I'm a passionate **Full Stack Developer** on a continuous journey of learning and growth.
 - 🌱 Currently, I'm diving into several fascinating areas such as:
 - 🌱 **Frontend:** React, React Native, Figma, Illustrator, Photoshop (for design aspects);
-- 🌱 **Backend:** Node.js, Go, C#;
+- 🌱 **Backend:** Node.js, Python, C#;
 - 🌱 **Databases:** SQL, MySQL, MariaDB, SQLite, PostgreSQL, MongoDB, Oracle, Firebird;
 - 🌱 **DevOps:** Exploring best practices and tools;
 - 🌱 **Security:** Fundamentals of Cybersecurity;
